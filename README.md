@@ -3,7 +3,7 @@
 
 Based on Themekits starter but includes Webpack and Tailwind 🤟
 
-A config file looks like this
+Create a config.yml file in the root, with these contents filled in
 
     development:
        password: ******
